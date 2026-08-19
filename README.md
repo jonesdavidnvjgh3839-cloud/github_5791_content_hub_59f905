@@ -1,3 +1,3 @@
-# Template Content Hub
+# Helios Analytics Content Hub
 
-This repository is bootstrapped from an internal template. It contains sample files (prefixed with `sample-`) that must be replaced with real content during onboarding.
+This hub hosts product documentation, editorial guides, articles, and reusable resources for the Helios Analytics Platform. It is maintained by the content operations team.
