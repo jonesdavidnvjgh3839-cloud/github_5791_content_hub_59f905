@@ -9,3 +9,6 @@ Helios Analytics Platform is an end-to-end analytics solution for data teams.
 
 ## Audience
 Data engineers, analysts, and business stakeholders.
+
+## Recent Updates
+The content hub was refreshed in August 2026 with new guides, updated documentation, and launch announcements.
